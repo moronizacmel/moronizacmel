@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moroni Zacarias</h1>
+<h3 align="center">Software Engineering Student</h3>
+
+- 🔭 I’m currently working on [VirtualCash](https://play.google.com/store/apps/details?id=com.virtualcash.app)
+
+- 📫 How to reach me **moronizacmel@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/moronizacmel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moronizacmel/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
