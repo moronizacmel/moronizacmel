@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moroni Zacarias</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-- 🔭 I’m currently working on [VirtualCash](https://play.google.com/store/apps/details?id=com.virtualcash.app)
-
 - 📫 How to reach me **moronizacmel@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
